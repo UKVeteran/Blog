@@ -9,9 +9,6 @@
 6. [Using Hybrid Physics-Informed Neural Networks for Digital Twins in Prognosis and Health Management](#pinns)
 
 
-# Using Hybrid Physics-Informed Neural Networks for Digital Twins in Prognosis and Health Management
- [link](https://joharmashfaque.com/2021/09/14/using-hybrid-physics-informed-neural-networks-for-digital-twins-in-prognosis-and-health-management/)
-
 # FLAML
  [link](https://joharmashfaque.com/2021/09/13/flaml/)
  
@@ -26,3 +23,6 @@
 
 # TextDistance
 [link](https://joharmashfaque.com/2021/09/01/textdistance/)
+
+# Using Hybrid Physics-Informed Neural Networks for Digital Twins in Prognosis and Health Management
+ [link](https://joharmashfaque.com/2021/09/14/using-hybrid-physics-informed-neural-networks-for-digital-twins-in-prognosis-and-health-management/)
