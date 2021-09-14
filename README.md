@@ -1,12 +1,15 @@
 # Blog
 
 # Contents
-1. [FLAML](#flaml)
-2. [A Gentle Introduction to Graph Neural Networks](#gnn)
+6. [Using Hybrid Physics-Informed Neural Networks for Digital Twins in Prognosis and Health Management](#pinns)
+5. [FLAML](#flaml)
+4. [A Gentle Introduction to Graph Neural Networks](#gnn)
 3. [What Is Quantum Computing?](#qc)
-4. [Gradsflow](#grflow)
-5. [TextDistance](#texdist)
+2. [Gradsflow](#grflow)
+1. [TextDistance](#texdist)
 
+# Using Hybrid Physics-Informed Neural Networks for Digital Twins in Prognosis and Health Management
+ [link](https://joharmashfaque.com/2021/09/14/using-hybrid-physics-informed-neural-networks-for-digital-twins-in-prognosis-and-health-management/)
 
 # FLAML
  [link](https://joharmashfaque.com/2021/09/13/flaml/)
