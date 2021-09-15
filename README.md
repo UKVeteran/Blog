@@ -2,13 +2,13 @@
 
 # Contents
 1. [FLAML](#flaml)
-2. [A Gentle Introduction to Graph Neural Networks](#gnn)
-3. [What Is Quantum Computing?](#qc)
-4. [Gradsflow](#grflow)
-5. [TextDistance](#texdist)
-6. [Using Hybrid Physics-Informed Neural Networks for Digital Twins in Prognosis and Health Management](#pinns)
+2. [A Gentle Introduction to Graph Neural Networks](#A Gentle Introduction to Graph Neural Networks)
+3. [What Is Quantum Computing?](#What Is Quantum Computing?)
+4. [Gradsflow](#Gradsflow)
+5. [TextDistance](#TextDistance)
+6. [Using Hybrid Physics-Informed Neural Networks for Digital Twins in Prognosis and Health Management](#Using Hybrid Physics-Informed Neural Networks for Digital Twins in Prognosis and Health Management)
 7. [Darts](#darts)
-8. [Pyinstrument](#pyinst)
+8. [Pyinstrument](#Pyinstrument)
 
 
 # FLAML
