@@ -8,6 +8,7 @@
 5. [TextDistance](#texdist)
 6. [Using Hybrid Physics-Informed Neural Networks for Digital Twins in Prognosis and Health Management](#pinns)
 7. [Darts](#darts)
+8. [Pyinstrument](#pyinst)
 
 
 # FLAML
@@ -30,3 +31,6 @@
 
 # Darts
  [link](https://joharmashfaque.com/2021/09/14/darts/)
+
+# Pyinstrument
+ [link](https://joharmashfaque.com/2021/09/15/pyinstrument-readable-python-profiler/)
