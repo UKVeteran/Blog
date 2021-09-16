@@ -9,6 +9,7 @@
 6. [Using Hybrid Physics-Informed Neural Networks for Digital Twins in Prognosis and Health Management](#Using)
 7. [Darts](#darts)
 8. [Pyinstrument](#Pyinstrument)
+9. [Langcodes](#langcodes)
 
 
 # FLAML
@@ -34,3 +35,6 @@
 
 # Pyinstrument
  [link](https://joharmashfaque.com/2021/09/15/pyinstrument-readable-python-profiler/)
+ 
+ # Langcodes
+ [link](https://joharmashfaque.com/2021/09/16/langcodes/)
