@@ -10,6 +10,7 @@
 7. [Darts](#darts)
 8. [Pyinstrument](#Pyinstrument)
 9. [Langcodes](#langcodes)
+10. [Traces](#traces)
 
 
 # FLAML
@@ -38,3 +39,6 @@
  
  # Langcodes
  [link](https://joharmashfaque.com/2021/09/16/langcodes/)
+ 
+ # Traces
+ [link](https://joharmashfaque.com/2021/09/17/traces-a-python-library-for-unevenly-spaced-time-series-analysis/)
