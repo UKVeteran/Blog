@@ -11,7 +11,7 @@
 8. [Pyinstrument](#Pyinstrument)
 9. [Langcodes](#langcodes)
 10. [Traces](#traces)
-
+11. [TF-Agents](#tfagents)
 
 # FLAML
  [link](https://joharmashfaque.com/2021/09/13/flaml/)
@@ -42,3 +42,6 @@
  
  # Traces
  [link](https://joharmashfaque.com/2021/09/17/traces-a-python-library-for-unevenly-spaced-time-series-analysis/)
+
+ # TF-Agents
+ [link](https://joharmashfaque.com/2021/09/18/tf-agents/)
