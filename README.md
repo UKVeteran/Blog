@@ -12,6 +12,7 @@
 9. [Langcodes](#langcodes)
 10. [Traces](#traces)
 11. [TF-Agents](#tf-agents)
+12. [Mypy](#mypy)
 
 # FLAML
  [link](https://joharmashfaque.com/2021/09/13/flaml/)
@@ -45,3 +46,6 @@
 
  # TF-Agents
  [link](https://joharmashfaque.com/2021/09/18/tf-agents/)
+ 
+ # Mypy
+ [link](https://joharmashfaque.com/2021/09/18/mypy-static-type-checker-for-python/)
