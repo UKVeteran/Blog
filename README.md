@@ -13,6 +13,7 @@
 10. [Traces](#traces)
 11. [TF-Agents](#tf-agents)
 12. [Mypy](#mypy)
+13. [Rich](#rich)
 
 # FLAML
  [link](https://joharmashfaque.com/2021/09/13/flaml/)
@@ -49,3 +50,6 @@
  
  # Mypy
  [link](https://joharmashfaque.com/2021/09/18/mypy-static-type-checker-for-python/)
+ 
+ # Rich
+ [link](https://joharmashfaque.com/2021/09/19/rich/)
