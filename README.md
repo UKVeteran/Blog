@@ -14,6 +14,7 @@
 11. [TF-Agents](#tf-agents)
 12. [Mypy](#mypy)
 13. [Rich](#rich)
+14. [Frappe](#frappe)
 
 # FLAML
  [link](https://joharmashfaque.com/2021/09/13/flaml/)
@@ -53,3 +54,6 @@
  
  # Rich
  [link](https://joharmashfaque.com/2021/09/19/rich/)
+ 
+ # Frappe
+ [link](https://joharmashfaque.com/2021/09/20/frappe/)
