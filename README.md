@@ -15,6 +15,7 @@
 12. [Mypy](#mypy)
 13. [Rich](#rich)
 14. [Frappe](#frappe)
+15. [spacyopentapioca](#spacyopentapioca)
 
 # FLAML
  [link](https://joharmashfaque.com/2021/09/13/flaml/)
@@ -57,3 +58,6 @@
  
  # Frappe
  [link](https://joharmashfaque.com/2021/09/20/frappe/)
+ 
+ # Spacyopentapioca
+ [link](https://joharmashfaque.com/2021/09/21/spacyopentapioca/)
