@@ -19,6 +19,7 @@
 16. [Orchest](#orchest)
 17. [HiPlot](#hiplot)
 18. [BERTify](#bertify)
+19. [River](#river)
 
 # FLAML
  [link](https://joharmashfaque.com/2021/09/13/flaml/)
@@ -73,3 +74,6 @@
 
 # BERTify
 [link](https://joharmashfaque.com/2021/09/23/bertify/)
+
+# River
+[link](https://joharmashfaque.com/2021/09/23/river/)
