@@ -18,6 +18,7 @@
 15. [spacyopentapioca](#spacyopentapioca)
 16. [Orchest](#orchest)
 17. [HiPlot](#hiplot)
+18. [BERTify](#bertify)
 
 # FLAML
  [link](https://joharmashfaque.com/2021/09/13/flaml/)
@@ -69,3 +70,6 @@
 
 # HiPlot
 [link](https://joharmashfaque.com/2021/09/23/hiplot-high-dimensional-interactive-plotting/)
+
+# BERTify
+[link](https://joharmashfaque.com/2021/09/23/bertify/)
