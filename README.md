@@ -17,6 +17,7 @@
 14. [Frappe](#frappe)
 15. [spacyopentapioca](#spacyopentapioca)
 16. [Orchest](#orchest)
+17. [HiPlot](#hiplot)
 
 # FLAML
  [link](https://joharmashfaque.com/2021/09/13/flaml/)
@@ -65,3 +66,6 @@
 
 # Orchest
 [link](https://joharmashfaque.com/2021/09/22/orchest/)
+
+# HiPlot
+[link](https://joharmashfaque.com/2021/09/23/hiplot-high-dimensional-interactive-plotting/)
