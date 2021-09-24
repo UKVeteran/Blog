@@ -20,6 +20,7 @@
 17. [HiPlot](#hiplot)
 18. [BERTify](#bertify)
 19. [River](#river)
+20. [RASA](#rasa)
 
 # FLAML
  [link](https://joharmashfaque.com/2021/09/13/flaml/)
@@ -77,3 +78,6 @@
 
 # River
 [link](https://joharmashfaque.com/2021/09/23/river/)
+
+# RASA
+[link](https://joharmashfaque.com/2021/09/24/rasa/)
