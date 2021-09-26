@@ -21,6 +21,7 @@
 18. [BERTify](#bertify)
 19. [River](#river)
 20. [RASA](#rasa)
+21. [Merlion](#merlion)
 
 # FLAML
  [link](https://joharmashfaque.com/2021/09/13/flaml/)
@@ -81,3 +82,6 @@
 
 # RASA
 [link](https://joharmashfaque.com/2021/09/24/rasa/)
+
+# Merlion
+[link](https://joharmashfaque.com/2021/09/26/merilon/)
