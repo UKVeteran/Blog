@@ -22,6 +22,7 @@
 19. [River](#river)
 20. [RASA](#rasa)
 21. [Merlion](#merlion)
+22. [TROCR](#trocr)
 
 # FLAML
  [link](https://joharmashfaque.com/2021/09/13/flaml/)
@@ -85,3 +86,6 @@
 
 # Merlion
 [link](https://joharmashfaque.com/2021/09/26/merilon/)
+
+# TROCR
+[link](https://joharmashfaque.com/2021/09/27/trocr-transformer-based-optical-character-recognition-with-pre-trained-models/)
