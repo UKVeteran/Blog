@@ -23,6 +23,7 @@
 20. [RASA](#rasa)
 21. [Merlion](#merlion)
 22. [TROCR](#trocr)
+23. [MiniHack](#minihack)
 
 # FLAML
  [link](https://joharmashfaque.com/2021/09/13/flaml/)
@@ -89,3 +90,6 @@
 
 # TROCR
 [link](https://joharmashfaque.com/2021/09/27/trocr-transformer-based-optical-character-recognition-with-pre-trained-models/)
+
+# MiniHack
+[link](https://joharmashfaque.com/2021/09/30/minihack/)
