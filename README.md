@@ -25,6 +25,7 @@
 22. [TROCR](#trocr)
 23. [MiniHack](#minihack)
 24. [Netplot](#netplot)
+25. [Fugue](#fugue)
 
 # FLAML
  [link](https://joharmashfaque.com/2021/09/13/flaml/)
@@ -97,3 +98,6 @@
 
 # Netplot
 [link](https://joharmashfaque.com/2021/10/01/netplot/)
+
+# Fugue
+[link](https://joharmashfaque.com/2021/10/01/fugue/)
