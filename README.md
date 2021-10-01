@@ -24,6 +24,7 @@
 21. [Merlion](#merlion)
 22. [TROCR](#trocr)
 23. [MiniHack](#minihack)
+24. [Netplot](#netplot)
 
 # FLAML
  [link](https://joharmashfaque.com/2021/09/13/flaml/)
@@ -93,3 +94,6 @@
 
 # MiniHack
 [link](https://joharmashfaque.com/2021/09/30/minihack/)
+
+# Netplot
+[link](https://joharmashfaque.com/2021/10/01/netplot/)
