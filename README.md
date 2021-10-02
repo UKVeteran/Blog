@@ -26,6 +26,7 @@
 23. [MiniHack](#minihack)
 24. [Netplot](#netplot)
 25. [Fugue](#fugue)
+26. [IRedis](#iredis)
 
 # FLAML
  [link](https://joharmashfaque.com/2021/09/13/flaml/)
@@ -101,3 +102,6 @@
 
 # Fugue
 [link](https://joharmashfaque.com/2021/10/01/fugue/)
+
+# IRedis
+[link](https://joharmashfaque.com/2021/10/02/iredis/)
