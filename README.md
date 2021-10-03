@@ -27,6 +27,7 @@
 24. [Netplot](#netplot)
 25. [Fugue](#fugue)
 26. [IRedis](#iredis)
+27. [FastAPI](#fastapi)
 
 # FLAML
  [link](https://joharmashfaque.com/2021/09/13/flaml/)
@@ -105,3 +106,6 @@
 
 # IRedis
 [link](https://joharmashfaque.com/2021/10/02/iredis/)
+
+# FastAPI
+[link](https://joharmashfaque.com/2021/10/03/fastapi/)
