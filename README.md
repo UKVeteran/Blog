@@ -28,6 +28,7 @@
 25. [Fugue](#fugue)
 26. [IRedis](#iredis)
 27. [FastAPI](#fastapi)
+28. [pdoc](#pdoc)
 
 # FLAML
  [link](https://joharmashfaque.com/2021/09/13/flaml/)
@@ -109,3 +110,6 @@
 
 # FastAPI
 [link](https://joharmashfaque.com/2021/10/03/fastapi/)
+
+# pdoc
+[link](https://joharmashfaque.com/2021/10/04/pdoc/)
