@@ -29,6 +29,7 @@
 26. [IRedis](#iredis)
 27. [FastAPI](#fastapi)
 28. [pdoc](#pdoc)
+29. [skimpy](#skimpy)
 
 # FLAML
  [link](https://joharmashfaque.com/2021/09/13/flaml/)
@@ -113,3 +114,6 @@
 
 # pdoc
 [link](https://joharmashfaque.com/2021/10/04/pdoc/)
+
+# skimpy
+[link](https://joharmashfaque.com/2021/10/04/skimpy/)
