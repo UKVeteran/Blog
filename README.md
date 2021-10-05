@@ -30,6 +30,7 @@
 27. [FastAPI](#fastapi)
 28. [pdoc](#pdoc)
 29. [skimpy](#skimpy)
+30. [Tablexplore](#tablexplore)
 
 # FLAML
  [link](https://joharmashfaque.com/2021/09/13/flaml/)
@@ -117,3 +118,6 @@
 
 # skimpy
 [link](https://joharmashfaque.com/2021/10/04/skimpy/)
+
+# Tablexplore
+[link](https://joharmashfaque.com/2021/10/05/tablexplore/)
