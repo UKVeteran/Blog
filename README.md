@@ -31,6 +31,7 @@
 28. [pdoc](#pdoc)
 29. [skimpy](#skimpy)
 30. [Tablexplore](#tablexplore)
+31. [PyRaug](#pyraug)
 
 # FLAML
  [link](https://joharmashfaque.com/2021/09/13/flaml/)
@@ -121,3 +122,6 @@
 
 # Tablexplore
 [link](https://joharmashfaque.com/2021/10/05/tablexplore/)
+
+# PyRaug
+[link](https://joharmashfaque.com/2021/10/06/pyraug/)
