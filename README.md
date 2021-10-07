@@ -32,6 +32,7 @@
 29. [skimpy](#skimpy)
 30. [Tablexplore](#tablexplore)
 31. [PyRaug](#pyraug)
+32. [MIDeepSeg](#mideepseg)
 
 # FLAML
  [link](https://joharmashfaque.com/2021/09/13/flaml/)
@@ -125,3 +126,6 @@
 
 # PyRaug
 [link](https://joharmashfaque.com/2021/10/06/pyraug/)
+
+# MIDeepSeg
+[link](https://joharmashfaque.com/2021/10/07/mideepseg/)
