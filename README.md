@@ -33,6 +33,7 @@
 30. [Tablexplore](#tablexplore)
 31. [PyRaug](#pyraug)
 32. [MIDeepSeg](#mideepseg)
+33. [FLAN](#flan)
 
 # FLAML
  [link](https://joharmashfaque.com/2021/09/13/flaml/)
@@ -129,3 +130,6 @@
 
 # MIDeepSeg
 [link](https://joharmashfaque.com/2021/10/07/mideepseg/)
+
+# FLAN
+[link](https://joharmashfaque.com/2021/10/08/flan/)
