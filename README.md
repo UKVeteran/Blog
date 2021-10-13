@@ -35,6 +35,7 @@
 32. [MIDeepSeg](#mideepseg)
 33. [FLAN](#flan)
 34. [UpliftML](#upliftml)
+35. [TFMA](#tfma)
 
 # FLAML
  [link](https://joharmashfaque.com/2021/09/13/flaml/)
@@ -137,3 +138,6 @@
 
 # UpliftML
 [link](https://joharmashfaque.com/2021/10/08/%f0%9d%90%94%f0%9d%90%a9%f0%9d%90%a5%f0%9d%90%a2%f0%9d%90%9f%f0%9d%90%ad%f0%9d%90%8c%f0%9d%90%8b/)
+
+# TFMA
+[link](https://joharmashfaque.com/2021/10/13/tfma/)
