@@ -37,6 +37,7 @@
 34. [UpliftML](#upliftml)
 35. [TFMA](#tfma)
 36. [PySyft](#pysyft)
+37. [textacy](#textacy)
 
 # FLAML
  [link](https://joharmashfaque.com/2021/09/13/flaml/)
@@ -145,3 +146,6 @@
 
 # PySyft
 [link](https://joharmashfaque.com/2021/10/17/pysyft/)
+
+# textacy
+[link](https://joharmashfaque.com/2021/10/27/textacy/)
