@@ -38,6 +38,7 @@
 35. [TFMA](#tfma)
 36. [PySyft](#pysyft)
 37. [textacy](#textacy)
+38. [Dodrio](#dodrio)
 
 # FLAML
  [link](https://joharmashfaque.com/2021/09/13/flaml/)
@@ -149,3 +150,6 @@
 
 # textacy
 [link](https://joharmashfaque.com/2021/10/27/textacy/)
+
+# Dodrio
+[link](https://joharmashfaque.com/2021/10/30/dodrio/)
