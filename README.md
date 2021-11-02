@@ -39,6 +39,7 @@
 36. [PySyft](#pysyft)
 37. [textacy](#textacy)
 38. [Dodrio](#dodrio)
+39. [SparkDataset](#sparkdataset)
 
 # FLAML
  [link](https://joharmashfaque.com/2021/09/13/flaml/)
@@ -153,3 +154,6 @@
 
 # Dodrio
 [link](https://joharmashfaque.com/2021/10/30/dodrio/)
+
+# SparkDataset
+[link](https://joharmashfaque.com/2021/11/02/sparkdataset/)
