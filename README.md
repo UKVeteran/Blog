@@ -41,6 +41,7 @@
 38. [Dodrio](#dodrio)
 39. [SparkDataset](#sparkdataset)
 40. [Kornia](#kornia)
+41. [Sparkora](#sparkora)
 
 # FLAML
  [link](https://joharmashfaque.com/2021/09/13/flaml/)
@@ -161,3 +162,6 @@
 
 # Kornia
 [link](https://joharmashfaque.com/2021/11/21/kornia/)
+
+# Sparkora
+[link](https://joharmashfaque.com/2021/11/21/sparkora/)
