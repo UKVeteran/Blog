@@ -40,6 +40,7 @@
 37. [textacy](#textacy)
 38. [Dodrio](#dodrio)
 39. [SparkDataset](#sparkdataset)
+40. [Kornia](#kornia)
 
 # FLAML
  [link](https://joharmashfaque.com/2021/09/13/flaml/)
@@ -157,3 +158,6 @@
 
 # SparkDataset
 [link](https://joharmashfaque.com/2021/11/02/sparkdataset/)
+
+# Kornia
+[link](https://joharmashfaque.com/2021/11/21/kornia/)
