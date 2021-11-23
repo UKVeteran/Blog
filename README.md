@@ -42,6 +42,7 @@
 39. [SparkDataset](#sparkdataset)
 40. [Kornia](#kornia)
 41. [Sparkora](#sparkora)
+42. [IceVision](#icevision)
 
 # FLAML
  [link](https://joharmashfaque.com/2021/09/13/flaml/)
@@ -165,3 +166,6 @@
 
 # Sparkora
 [link](https://joharmashfaque.com/2021/11/21/sparkora/)
+
+# IceVision
+[link](https://joharmashfaque.com/2021/11/23/icevision/)
