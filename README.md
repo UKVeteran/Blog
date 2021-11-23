@@ -43,6 +43,7 @@
 40. [Kornia](#kornia)
 41. [Sparkora](#sparkora)
 42. [IceVision](#icevision)
+43. [nhi](#nhi)
 
 # FLAML
  [link](https://joharmashfaque.com/2021/09/13/flaml/)
@@ -169,3 +170,6 @@
 
 # IceVision
 [link](https://joharmashfaque.com/2021/11/23/icevision/)
+
+# nhi
+[link](https://joharmashfaque.com/2021/11/23/nhi/)
