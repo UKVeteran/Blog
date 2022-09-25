@@ -2,47 +2,89 @@
 
 # Contents
 1. [FLAML](#flaml)
+
 2. [A Gentle Introduction to Graph Neural Networks](#AGentleIntroductiontoGraphNeuralNetworks)
+
 3. [What Is Quantum Computing?](#QuantumComputing?)
+
 4. [Gradsflow](#Gradsflow)
+
 5. [TextDistance](#TextDistance)
+
 6. [Using Hybrid Physics-Informed Neural Networks for Digital Twins in Prognosis and Health Management](#Using)
+
 7. [Darts](#darts)
+
 8. [Pyinstrument](#Pyinstrument)
+
 9. [Langcodes](#langcodes)
+
 10. [Traces](#traces)
+
 11. [TF-Agents](#tf-agents)
+
 12. [Mypy](#mypy)
+
 13. [Rich](#rich)
+
 14. [Frappe](#frappe)
+
 15. [spacyopentapioca](#spacyopentapioca)
+
 16. [Orchest](#orchest)
+
 17. [HiPlot](#hiplot)
+
 18. [BERTify](#bertify)
+
 19. [River](#river)
+
 20. [RASA](#rasa)
+
 21. [Merlion](#merlion)
+
 22. [TROCR](#trocr)
+
 23. [MiniHack](#minihack)
+
 24. [Netplot](#netplot)
+
 25. [Fugue](#fugue)
+
 26. [IRedis](#iredis)
+
 27. [FastAPI](#fastapi)
+
 28. [pdoc](#pdoc)
+
 29. [skimpy](#skimpy)
+
 30. [Tablexplore](#tablexplore)
+
 31. [PyRaug](#pyraug)
+
 32. [MIDeepSeg](#mideepseg)
+
 33. [FLAN](#flan)
+
 34. [UpliftML](#upliftml)
+
 35. [TFMA](#tfma)
+
 36. [PySyft](#pysyft)
+
 37. [textacy](#textacy)
+
 38. [Dodrio](#dodrio)
+
 39. [SparkDataset](#sparkdataset)
+
 40. [Kornia](#kornia)
+
 41. [Sparkora](#sparkora)
+
 42. [IceVision](#icevision)
+
 43. [nhi](#nhi)
 
 # FLAML
